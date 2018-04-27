@@ -1,0 +1,7 @@
+Id=41$Name=Eslam Hamed Hashem$Email=Islamhamed@gmail.com$Phone=01120647764$AccountType=Checking$Balance=5000$AccountNumber=250$DateOfCreate=5
+Id=41$Name=Eslam Khalaf $Email=IslamKhalaf@gmail.com$Phone=01120647764$AccountType=Checking$Balance=5000$AccountNumber=2503$DateOfCreate=54
+Id=1$Name=Eslam Mamdouh Mohamed$Email=Eslam@gmail.com$Phone=01120644764$AccountType=Checking$Balance=5000$AccountNumber=2015$DateOfCreate=5
+Id=1$Name=Eslam Hamed Hashem $Email=Islam@gmail.com$Phone=01120647764$AccountType=Checking$Balance=5000$AccountNumber=205$DateOfCreate=5
+Id=41$Name=Eslam Hamed Hashim$Email=Islamhamed@gmail.com$Phone=01120647764$AccountType=Saving$Balance=5000$AccountNumber=2060$DateOfCreate=5
+Id=41$Name=Eslam Khalaf Mohamed $Email=EslamKhalaf@gmail.com$Phone=01120647764	$AccountType=Saving$Balance=5000$AccountNumber=2060$DateOfCreate=6
+Id=41$Name=Eslam Hamed Hashim$Email=Islamhamed@gmail.com$Phone=011206589$AccountType=Loan$Balance=5000$AccountNumber=256$DateOfCreate=6

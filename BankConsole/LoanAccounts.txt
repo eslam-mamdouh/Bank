@@ -1,0 +1,1 @@
+Id=41$Name=Eslam Hamed Hashim$AccountNumber=256$Balance=5000$DateOfCreate=6

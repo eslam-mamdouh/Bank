@@ -1,0 +1,1 @@
+Id=1$Name=Eslam Hamed Hashem $AccountNumber=205$Balance=5000$DateOfCreate=5
